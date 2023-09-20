@@ -1,11 +1,10 @@
-%**************************************************************
- % @Project sim_model
- % @Company SZU
- % @Author  Guobin Li
- % @Target  导航基础仿真环境
- % @data    2023-9-18
- % All rights reserved
-%**************************************************************
+% @Project sim_model
+% @Company SZU
+% @Author  Guobin Li
+% @Target  导航基础仿真环境
+% @data    2023-9-18
+% All rights reserved
+
 
 version:
 1.0: 包含一个四轮机器人模型(带运动控制器，16线激光雷达及IMU)以及两个world环境(平坦和非平坦).
